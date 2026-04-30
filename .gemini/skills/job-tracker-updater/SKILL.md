@@ -38,5 +38,6 @@ This script uses `llama3.2:3b` to parse the JSON and generate `batch_new.csv`.
 
 ### 5. Merge & Cleanup
 - Run the update script: `uv run python update_tracker.py`.
+- **Note:** The script automatically normalizes all dates to ISO 8601 (`YYYY-MM-DD`) format.
 - Verify the new entries in `job_applications_final.csv`.
 - Delete `raw_emails.json` and `batch_new.csv`.

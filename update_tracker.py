@@ -23,8 +23,10 @@ def update_job_search_data(new_records_path, final_csv_path='job_applications_fi
         # (This allows updates to response_status if a response came in for an existing app)
         df_combined = pd.concat([df_final, df_new], ignore_index=True)
         
-        # Ensure date format for proper sorting
-        df_combined['application_date'] = pd.to_datetime(df_combined['application_date'], format='mixed')
+        # Ensure date format for proper sorting and consistent storage
+        for col in ['application_date', 'response_date']:
+            df_combined[col] = pd.to_datetime(df_combined[col], errors='coerce', format='mixed').dt.strftime('%Y-%m-%d')
+        
         df_combined = df_combined.sort_values(by=['application_date', 'response_date'], ascending=False, na_position='last')
         
         # Standardize job_title to handle duplicates with missing titles
