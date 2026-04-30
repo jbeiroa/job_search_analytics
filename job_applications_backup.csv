@@ -1,38 +1,22 @@
 application_date,company,job_title,platform,response_date,response_status
-2026-04-24,AI Report,AI/ML Engineer,LinkedIn,2026-04-24,Received
 2026-04-28,ASAP Consulting,ML/AI Engineer and Data Scientist,Direct Email,,Received
 2026-04-28,ASAP Consulting,ML/AI Engineer y Data Scientist,Direct Email,,Received
 2026-03-25,Accenture,Academy Sr AI,Direct Email,2026/03/25,Received
-2026-04-27,Accenture,Consulting Specialist,LinkedIn,2026-04-27,Received
 2026-04-20,Accenture,Consultor/a en Ciencia de Decisiones de IA,Accenture,2026-04-23,Rejected
 2026-04-20,Accenture,Data Scientist,Workday,,Rejected
 2026-04-20,Accenture,Data Scientist - Decision Science Insights,Accenture,2026-04-23,Rejected
 2026-03-11,Accenture,IA Engineering,Direct Email,,Received
 2026-03-26,Accenture,Strategy & Consulting | Data & Applied Intelligence,Direct Email,2026/03/26,Received
-2026-04-24,Accenture Argentina,AI Enablement Manager - Customer Tech - Agentic Commerce & AI Management Consulting Manager,LinkedIn,2026-04-24,Received
-2026-04-24,Accenture Argentina,Consulting Specialist: Agentic Commerce & AI Consultant | Sales & Commerce Consulting,LinkedIn,2026-04-24,Received
-2026-04-24,Accenture Argentina,Customer Tech - Agentic Commerce & AI Consultant | Sales & Commerce Consulting,LinkedIn,2026-04-24,Received
-2026-04-30,Accenture Argentina,IA Engineering,LinkedIn,2026-04-30,Received
-2026-04-29,Accenture Argentina,Machine Learning Expert,LinkedIn,2026-04-29,Received
-2026-04-27,Accenture Argentina,Management Consultant/Analyst - Fulfillment,LinkedIn,2026-04-27,Received
-2026-04-26,Accenture Argentina,Strategy & Consulting | Commerce & Sales - Excluyente Consultoria,LinkedIn,2026-04-26,Received
-2026-04-29,Accenture Argentina,Strategy & Consulting | Gestión del Cambio - T&O,LinkedIn,2026-04-29,Received
-2026-04-28,Accenture Argentina,Training Lead | Strategy & Consulting,LinkedIn,2026-04-28,Received
 2026-04-20,AceUp,AI/ML Engineer,Silver.dev,,No Response
 2026-04-09,AceUp,Machine Learning Engineer (Generative AI & LLM Focus),Silver.dev,,Received
 2026-04-21,Acsys,AI Solutions Architect,LinkedIn,,Received
 2026-04-21,Acsys,N/A,LinkedIn,,No Response
-2026-04-29,Aerolíneas Argentinas,Unknown,Direct Email,,Received
-2026-04-24,AlixPartners,AI & Machine Learning Consultant,LinkedIn,2026-04-24,Received
-2026-04-28,AlixPartners,Data Competition,Direct Email,2026-04-28,Received
 2026-04-21,AlixPartners,Data Consultant,AlixPartners,2026-04-22,Rejected
 2026-04-20,Anyone AI,AI/ML Engineer,LinkedIn,,No Response
 2026-04-16,Anyone AI,Anyone AI Expert Network,Anyone AI,,Received
 ,Anyone AI,Full-Stack Developer - AI Trainer (Argentina),Other,2026/04/13,Rejected
 2026-02-05,Anyone AI,Python Developer - AI Training,Direct Email,,Received
 2026-04-29,BCG,Consultant Full-Time 2026,Direct Email,2026-04-29,Update Received
-2026-04-29,BCG Talent Acquisition,BCG Consultant Full-Time,Direct Email,2026-04-29,Received
-2026-04-27,BRG,AI Infrastructure Engineer,LinkedIn,,Received
 2026-03-30,BRG,Job Application,Direct Email,2026/03/30,Received
 2026-04-26,BYMA,N/A,LinkedIn,,No Response
 2026-04-08,BYMA Bolsas y Mercados Argentinos S.A.,Analista de Transformación Digital (desarrollo Python),LinkedIn,2026/04/11,Rejected
@@ -42,74 +26,40 @@ application_date,company,job_title,platform,response_date,response_status
 2026-04-27,Banco Macro,Analista Motores de evaluación BI,LinkedIn,,Received
 2026-04-27,Banco Macro,Data Scientist,LinkedIn,,No Response
 2026-04-27,Banco Macro,N/A,LinkedIn,,No Response
-2026-04-27,Banco Macro,Unknown,LinkedIn,2026-04-27,Received
 2026-04-27,Beeflow,AI Ops & Business Analyst,Workable,,In Progress
 2026-04-27,Beeflow,N/A,LinkedIn,,No Response
-2026-04-27,Beeflow,Unknown,LinkedIn,,Received
-2026-04-27,Beehiiv,The AI Report,Direct Email,2026-04-27,Received
-2026-04-28,Biogénesis Bagó,Líder de automatización e IA,LinkedIn,2026-04-28,Received
 2026-03-17,Biwares,Data IA Engineer,LinkedIn,2026/03/17,Received
 2026-03-25,Biwares,Data IA Engineer - Machine Learning,Direct Email,2026/03/25,Received
 2026-03-17,Biwares,N/A,LinkedIn,,No Response
-2026-04-24,Blanc Labs,Senior AI Engineer,Glassdoor,,Received
 2026-01-25,Brainlabs,Junior Data Analyst,Direct Email,2026/01/25,Rejected
-2026-04-23,Brainlabs,Unknown,Direct Email,2026-04-23,Received
 2026-04-29,Bumeran,AI Engineer - Ingeniero de Inteligencia Artificial,Bumeran,,Received
 2026-03-18,Bumeran,Desarrollador Python,Bumeran,2026/03/18,Received
-2026-04-24,Bumeran,No specified,Bumeran,2026-04-24,Received
 2026-04-29,Bumeran,Python Software Engineer,Bumeran,,No Response
 2026-04-29,Bumeran,Python Software Engineer (GenAI) - Remoto - 1728,Bumeran,,Received
 2026-03-26,CRAFTLabs,Python Developer,LinkedIn,2026/03/26,Received
 2026-04-20,Canals,AI/ML Engineer,LinkedIn,,No Response
 2026-01-22,Canals,Junior Software Engineer,Direct Email,2026/01/22,Received
-2026-04-27,Carefull,Data Scientist / AI Engineer,Silver.dev,2026-04-27,Rejected
+2026-04-27,Carefull,Data Scientist / AI Engineer,Silver.dev,,Rejected
 2026-03-16,Celeste Maggiore,Data Scientist / Machine Learning Jr,Direct Email,2026/03/16,Received
 2026-02-26,Celeste Maggiore,Machine Learning/Artificial Intelligence Engineering,Direct Email,,Received
-2026-04-29,Cenital,Error al por mayor,Direct Email,2026-04-29,Received
-2026-04-25,Cenital,Un supermillonario tecnológico y un pastor evangélico entran a un bar.,Direct Email,2026-04-25,Received
-2026-04-28,Cenital,Unknown,Direct Email,2026-04-28,Received
-2026-04-27,Cenital Mundo,No specified,Direct Email,2026-04-27,Received
-2026-04-29,Cenital Primera mañana,Adorni,Direct Email,2026-04-29,Received
 2026-04-20,Central Puerto,AI/ML Engineer,LinkedIn,,No Response
-2026-04-26,Ciencia Abierta,N/A,Direct Email,2026-04-26,Received
-2026-04-25,Ciklum,Senior Automation QA Engineer,Glassdoor,2026-04-25,Received
-2026-04-26,Ciklum,Senior Intelligent Automation Engineer,Glassdoor,2026-04-26,Received
 2026-02-27,Clarín,Desarrollador Python y datos,Hiring Room,,Received
-2026-04-25,Clean Company Name Here (Infered),Job Title Here (Infered),Direct Email,,Received
 2026-04-28,Close-Up International,AI & Data Lead,Direct Email,,Received
 2026-04-20,Cocos,AI/ML Engineer,LinkedIn,,No Response
 2026-04-23,Cocos,IA Transformation Expert,Cocos,,Received
-2026-04-24,Colegium,"Ejecutiv@ de Implementación y Onboarding (Buenos Aires, Híbrido)",LinkedIn,2026-04-24,Received
-2026-04-29,Construccion Colectiva,Professor/Professoress of Exact Sciences,Direct Email,2026-04-29,Received
-2026-04-28,Construccion Colectiva Profesorxs,Candidato a consejero directivo,Direct Email,2026-04-28,Received
 2026-03-27,Criteria WM S.A.,Data Engineer,Hiring Room,2026/03/27,Rejected
 2026-03-26,Criteria WM SA,Data Engineer,Hiring Room,2026/03/26,Received
 2026-02-27,Crossing Hurdles,Data Annotator | Remote,LinkedIn,,Received
 2026-02-10,Crossing Hurdles,Machine Learning Researcher | Remote,LinkedIn,,Received
-2026-04-27,DIPREM Global,Juan's Application,LinkedIn,2026-04-27,Received
 2026-04-27,DIPREM Global,N/A,LinkedIn,,No Response
 2026-04-27,DIPREM Global,Programador full stack,LinkedIn,,Received
-2026-04-29,DXC,Oportunidad Laboral en DXC,Direct Email,2026-04-29,Received
 2026-04-21,DXC,Python Developer,Direct Email,2026-04-29,Questionnaire
 2026-04-21,Darwin AI,AI Operations Executive (Jr/Semi Sr),Workable,,Received
 2026-04-21,Darwin AI,AI Prompting & Automation Executive (Jr/Semi Sr),Workable,,Received
-2026-04-28,DataCamp,Dev Pro,Direct Email,2026-04-28,Received
-2026-04-28,DataCamp,Microsoft x DataCamp—Put Copilot to Work,Direct Email,2026-04-28,Received
 2026-03-22,Derq,ML Quality Assurance Engineer,Workable,2026/03/22,Received
 2026-04-20,Despegar,AI Tax Transformation Specialist,LinkedIn,,Received
 2026-04-20,Despegar,N/A,LinkedIn,,No Response
 2026-04-10,Despegar,Technician I,LinkedIn,,Received
-2026-04-29,Dev.Pro,(AI-Assisted Software Engineer / Full-Stack),Workable,,Received
-2026-04-28,Dev.Pro,AI & Data Lead,Silver.dev,2026-04-28,Received
-2026-04-24,Dev.Pro,AI & Machine Learning Consultant,Direct Email,2026-04-24,Rejected
-2026-04-24,Dev.Pro,AI Engineer (Remote),LinkedIn,2026-04-24,Received
-2026-04-28,Dev.Pro,AI Training Engineer - Remote Role,LinkedIn,2026-04-28,Received
-2026-04-24,Dev.Pro,Artificial Intelligence Engineer,LinkedIn,2026-04-24,Received
-2026-04-29,Dev.Pro,Dev.Pro Career,Direct Email,2026-04-29,Received
-2026-04-28,Dev.Pro,ML/AI Engineer and Data Scientist,Workable,2026-04-28,Received
-2026-04-27,Dev.Pro,Rappi Dashboard,Direct Email,2026-04-27,Received
-2026-04-29,Dev.Pro,Software Engineer / Full-Stack,Workable,2026-04-29,Received
-2026-04-25,Dev.Pro,Training Specialist,Silver.dev,2026-04-25,Received
 2026-04-29,Dev.Pro,Vibe Coder,Workable,,Received
 2026-04-29,Dev.Pro,Vibe Coder (AI-Assisted Software Engineer / Full-Stack) - OPS00069,Workable,,Interview
 2026-04-20,DevRev,AI/ML Engineer,LinkedIn,,No Response
@@ -119,27 +69,18 @@ application_date,company,job_title,platform,response_date,response_status
 2026-03-26,Dialpad,Software Engineer (Productivity),Direct Email,2026/03/26,Received
 2026-03-22,Dymaxion Labs,Analista de Operaciones,LinkedIn,2026/03/22,Received
 2026-03-22,Dymaxion Labs,N/A,LinkedIn,,No Response
-2026-04-23,EPAM Systems,AI Enablement Manager - AI Engineering Manager,LinkedIn,2026-04-23,Received
-2026-04-27,EPAM Systems,Data Science Engineer (AWS SageMaker & Bedrock),Glassdoor,Not Applicable,Not Applicable
-2026-04-29,EPAM Systems,Senior AI Software Engineer,Glassdoor,2026-04-29,Received
 2026-03-11,EY,EY - Junior de IT,Direct Email,,Received
-2026-04-28,EY,Not specified in email,Direct Email,2026-04-28,Received
-2026-04-29,Emma of Torre.ai,AI Software Engineer,Silver.dev,2026-04-29,Received
 2026-03-09,Empire DMC,AI Engineer,LinkedIn,,Received
 2026-03-09,Empire DMC,N/A,LinkedIn,,No Response
 2026-03-06,Empresa confidencial,Ingeniero de IA,Bumeran,,Received
 2026-04-01,Experis,N/A,LinkedIn,,No Response
 2026-04-01,Experis Argentina,Data scientist- Inglés avanzado,LinkedIn,,Received
 2026-03-30,Famiq S.R.L.,Desarrollador de Python Semi Senior,LinkedIn,2026/03/30,Received
-2026-04-28,Frost & Sullivan,Consulting Analyst - Mobility,LinkedIn,,Received
-2026-04-28,Félix,Data Scientist - Forecasting & Optimization,LinkedIn,2026-04-28,Received
 2026-03-19,GCG Control,Desarrollador de Python,LinkedIn,2026/03/19,Received
 2026-03-19,GCG Control,N/A,LinkedIn,,No Response
-2026-04-26,Get on Board,Improving South America AI Engineer | Senior Full time,Direct Email,2026-04-26,Received
 2026-03-30,Global66,AI Specialist,Direct Email,2026/03/30,Received
 2026-02-10,GlobalVision,Junior Data Engineer (Remote Argentina),LinkedIn,,Received
 2026-03-09,GlobalVision,Junior Data Engineer (Remote Latin America),Workable,,Received
-2026-04-28,Greenhouse Jobs,Dream Job,Direct Email,2026-04-28,Received
 2026-03-11,Grupo Quinto Andar,Staff Data Science,Direct Email,,Received
 2026-03-28,Grupo QuintoAndar,Staff Data Science,Direct Email,2026/03/28,Rejected
 2026-04-16,HOLZBODEN,ANALISTA DE PROCESOS E INTELIGENCIA ARTIFICIAL JR.,Bumeran,,Received
@@ -151,8 +92,6 @@ application_date,company,job_title,platform,response_date,response_status
 2026-03-11,INDI Staffing Services,Python Developer,Direct Email,,Received
 2026-04-07,INDI Staffing Services,Python Developer (Junior),LinkedIn,,Received
 2026-03-11,INDI Staffing Services,Python Developer (Junior) - Remote,LinkedIn,,Received
-2026-04-29,IOL Inversiones,Apertura de Mercado,Direct Email,2026-04-29,Received
-2026-04-27,IOL Inversiones,Dev.Pro Career,Direct Email,2026-04-27,Received
 2026-04-20,ITSM Consulting,AI/ML Engineer,LinkedIn,,No Response
 2026-04-09,ITSM Consulting,Ingeniero de IA Generativa - AL2 Billetera Virtual,Hiring Room,,Received
 2026-02-27,Illumia,AI Performance & Reporting Analyst,LinkedIn,,Received
@@ -160,15 +99,9 @@ application_date,company,job_title,platform,response_date,response_status
 2026-04-20,Innodata,N/A,LinkedIn,,No Response
 2026-04-20,Innodata Inc.,Data Annotator,LinkedIn,,Received
 2026-03-19,Instituto Tecnológico de Buenos Aires (ITBA),Docentes de Ciencias Ingeniería y Gestión,Hiring Room,2026/03/19,Received
-2026-04-25,Interinnova,Artificial Intelligence Engineer,LinkedIn,,Received
-2026-04-25,Interinnova,Junior ML Engineer/IA/Automatization,LinkedIn,2026-04-25,Received
 2026-03-10,Intriq,Data Engineer (Python / AWS),LinkedIn,,Received
 2026-03-10,Intriq,N/A,LinkedIn,,No Response
 2026-04-21,JPMorgan,Data Analytics Associate,Oracle,,Update Received
-2026-04-28,JPMorgan Chase & Co.,Data Analytics Associate - DDS BA,Direct Email,2026-04-28,Received
-2026-04-26,Jobs Ai,Data Scientist (Remote),LinkedIn,,Received
-2026-04-27,Joveo,Data Scientist,LinkedIn,2026-04-27,Received
-2026-04-25,Joveo AI,Data Scientist,LinkedIn,,Received
 2026-03-13,KPMG,Desarrollador/a IA | Tax | Argentina,LinkedIn,,Received
 2026-04-10,KPMG,Desarrollador/a Jr RPA,LinkedIn,,Received
 2026-04-10,KPMG,N/A,LinkedIn,,No Response
@@ -178,18 +111,15 @@ application_date,company,job_title,platform,response_date,response_status
 2026-03-13,La Caja de Ahorro y Seguro,AI Engineer,Hiring Room,,Received
 2026-04-08,Laboratorios Jayor,N/A,LinkedIn,,No Response
 2026-04-08,Laboratorios Jayor Argentina,Especialista en Automatización y Eficiencia con IA (Junior),LinkedIn,,Received
-2026-04-24,LeetCode,Weekly Digest,Direct Email,2026-04-24,Received
-2026-04-24,Mappa,AI Technical Specialist,Direct Email,2026-04-24,Received
+2026-04-24,Mappa,AI Technical Specialist,Mappa,,Received
 2026-04-25,Marval,N/A,LinkedIn,,No Response
 2026-03-13,Marval O' Farrell Mairal,AI Engineer,Hiring Room,,Received
-2026-04-28,McKinsey & Company,Consultant - Energy,LinkedIn,2026-04-28,Received
 2026-04-20,Mercado Libre,AI/ML Engineer,LinkedIn,,No Response
 2026-03-19,Mercado Libre,Expert en Ciencia de Datos - People,Direct Email,2026/03/19,Received
 2026-03-09,Mercado Libre,Ingeniera/o de Data Science,Direct Email,,Received
 2026-03-16,Mercado Libre,Machine Learning Engineer,Direct Email,2026/03/16,Received
 2026-04-07,Mercor,Bilingual Spanish Generalist Evaluator Expert,Other,,Received
 2026-04-07,Mercor,Bilingual Spanish STEM Expert,Other,,Received
-2026-04-26,MetLife Argentina,Learning and Development Manager - Training Specialist,LinkedIn,2026-04-26,Received
 2026-01-13,Monks,Junior Analytics Consultant,Direct Email,2026/01/13,Received
 2026-04-20,Movimiento CREA,AI/ML Engineer,LinkedIn,,No Response
 2026-04-14,Movimiento CREA,Programador Jr,Hiring Room,,Received
@@ -197,7 +127,6 @@ application_date,company,job_title,platform,response_date,response_status
 2026-03-02,NEC Argentina S.A.,Especialista Inteligencia Artificial,Direct Email,,Received
 2026-03-18,NEOBIZ,Desarrollador/a IA,Bumeran,2026/03/18,Received
 2026-03-04,NTT DATA Europe & Latam,Desarrollador Python Jr,LinkedIn,,Received
-2026-04-26,"NTT DATA, Inc.",Junior ML Engineer,LinkedIn,2026-04-26,Received
 2026-03-18,Neo-Biz,Data Science (Python IA),Bumeran,2026/03/18,Received
 2026-03-06,Nera,Data Scientist,LinkedIn,,Received
 2026-04-20,Nosis,AI/ML Engineer,LinkedIn,,No Response
@@ -207,33 +136,24 @@ application_date,company,job_title,platform,response_date,response_status
 2026-04-22,Onward RH,Trainee en IA & Automatización,Direct Email,,Received
 2026-03-19,OpenReplay,AI Engineer,LinkedIn,2026/03/19,Received
 2026-03-19,OpenReplay,N/A,LinkedIn,,No Response
-2026-04-28,Oracle,No job title provided,Direct Email,2026-04-28,Received
 ,PSI CRO,AI Business Analyst,LinkedIn,2026/04/10,Rejected
 2026-03-28,PSI CRO,Associate Process Improvement (AI Applications),Direct Email,2026/03/28,Received
-2026-04-26,Palo Alto Networks,Solutions Consultant 2,LinkedIn,2026-04-26,Received
 2026-04-21,PedidosYa,Learning Principal,LinkedIn,,Received
 2026-04-21,PedidosYa,N/A,LinkedIn,,No Response
-2026-04-28,PedidosYa,Selección Exclusiva,Direct Email,2026-04-28,Received
 2026-04-20,Practia Global,AI Engineer,LinkedIn,2026-04-23,Rejected
 2026-03-05,Practia Global,Automatizador Python,LinkedIn,2026-03-08,Rejected
-2026-04-24,Practia Global,PMO Manager,LinkedIn,,Received
 2026-03-05,Practia Global,Tester experto en IA,LinkedIn,2026-03-08,Rejected
-2026-04-24,Puppis,Perro Gato,Direct Email,2026-04-24,Received
 2026-03-19,PwC,Associate - Data Engineer,LinkedIn,2026/03/19,Rejected
 2026-03-09,PwC,Data Management - Associate,Direct Email,2026-03-13,Rejected
 2026-03-05,PwC,Junior - GenAI Engineer,Direct Email,,Received
 2026-03-16,PwC,N/A,LinkedIn,,No Response
 2026-01-13,PwC Argentina,Científico de datos,LinkedIn,2026/01/13,Received
-2026-04-29,PwC Argentina,Consultor,LinkedIn,2026-04-29,Received
 2026-03-19,Pyramid Consulting,N/A,LinkedIn,,No Response
 2026-03-19,Pyramid Consulting Inc,Artificial Intelligence Engineer,LinkedIn,2026/03/19,Received
 2026-03-20,Qu Pos,Job Application,Direct Email,2026/03/20,Received
-2026-04-26,Quik Hire Staffing,AI Training Engineer - Remote,LinkedIn,2026-04-26,Received
 2026-04-13,Ramp,Early Career Software Engineer,Silver.dev,2026/04/14,Rejected
 2026-04-20,Rappi,AI Engineer,Direct Email,,Technical Test
 2026-03-17,Rappi,Position at Rappi,Direct Email,2026/03/17,Received
-2026-04-27,Rappi,Scheduled Scraper Benchmark,Direct Email,2026-04-27,Received
-2026-04-26,SMS Sudamérica,AI Engineer - Ingeniero/a de Inteligencia Artificial,LinkedIn,2026-04-26,Received
 2026-03-13,SQUIRE,Machine Learning Engineer,LinkedIn,,Received
 2026-03-13,SQUIRE,N/A,LinkedIn,,No Response
 2026-03-12,Scale AI,Remote Coding Expertise for AI Training,Direct Email,,Interview
@@ -241,11 +161,9 @@ application_date,company,job_title,platform,response_date,response_status
 2026-04-10,Scalestack,N/A,LinkedIn,,No Response
 2026-03-12,Scopic,Talent Community - MLOps Engineer,Direct Email,,Received
 ,Siemens,AI / Data Engineer (493926),Other,2026/04/13,Rejected
-2026-04-29,Smiles,Unknown,Direct Email,2026-04-29,Received
 2026-03-11,Solvo Global,Especialista en IA,LinkedIn,,Received
 2026-03-11,Solvo Global,N/A,LinkedIn,,No Response
 2026-03-26,Spazios,Desarrollador IA,LinkedIn,2026-04-16,Rejected
-2026-04-24,Syneos Health Commercial Solutions,Training Coordinator,LinkedIn,,Received
 2026-04-20,TCS,AI/ML Engineer,LinkedIn,,No Response
 2026-03-11,Talently,AI Engineer,LinkedIn,,Received
 2026-03-11,Talently,N/A,LinkedIn,,No Response
@@ -260,18 +178,13 @@ application_date,company,job_title,platform,response_date,response_status
 2026-03-02,Ualá,Generative AI Engineer,LinkedIn,,Received
 2026-04-23,Unknown (Hiring Room),Postulación recibida,Hiring Room,,Received
 2026-04-20,Vicente Lopez,AI/ML Engineer,LinkedIn,,No Response
-2026-04-25,WTW,"Analista de Innovación - Automatización, IA y Sistemas",LinkedIn,,Received
-2026-04-25,WTW,"Analista de Innovación – Automatización, IA y Sistemas",LinkedIn,,Received
 2026-04-20,Waves,AI/ML Engineer,LinkedIn,,No Response
 2026-04-21,Waves,Innovation & Technology Specialist,Hiring Room,,Received
 2026-04-21,We Are Pipol,Customer Success Manager & AI Specialist,LinkedIn,,Received
 2026-04-21,We Are Pipol,N/A,LinkedIn,,No Response
-2026-04-29,Widergy SRL,IA Analyst Jr.,Direct Email,,Received
 2026-02-05,Xometry,Machine Learning Engineer II,LinkedIn,,Received
 2026-02-05,Xometry,N/A,LinkedIn,,No Response
-2026-04-26,Y Combinator,Job Title Not Specified,Workable,2026-04-26,Received
 2026-03-13,Yumatech,Data Analyst,LinkedIn,,Received
-2026-04-29,belo,Juan,Silver.dev,2026-04-29,Received
 2026-04-20,hiberus,IA Engineer,LinkedIn,,Received
 2026-04-20,hiberus,N/A,LinkedIn,,No Response
 2026-01-11,micro1,AI Engineer/Data Science Associate,Direct Email,2026/01/11,Interview
