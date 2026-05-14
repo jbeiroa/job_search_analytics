@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Job Search Data
+all_ids.txt
+*.csv
+raw_emails.json
+batch_new.csv
+analytics.ipynb
+*.skill

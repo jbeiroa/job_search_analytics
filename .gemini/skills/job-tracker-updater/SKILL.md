@@ -11,6 +11,7 @@ This skill automates the incremental update of the `job_applications_final.csv` 
 
 - Access to `mcp_google-workspace_gmail` tools.
 - `job_applications_final.csv` must exist in the workspace root.
+- `all_ids.txt` (optional, created automatically) to track processed emails.
 - `update_tracker.py` and `extract_jobs.py` scripts must be available in the workspace root.
 - **Ollama** installed and running with the `llama3.2:3b` model.
 - Python dependencies: `uv add ollama pydantic pandas`
@@ -19,25 +20,28 @@ This skill automates the incremental update of the `job_applications_final.csv` 
 
 ### 1. Determine Date Range
 Find the most recent `application_date` in `job_applications_final.csv`. 
-Perform a standard update from that date, or a "Deep Sync" (e.g., 30 days back) if requested.
 
 ### 2. Search & Fetch Emails
-Run BROAD Gmail searches to capture all potential applications and responses:
+Run Gmail searches to capture potential applications and responses:
 - **Applications:** `after:{DATE} ("Thanks for applying" OR "application was sent to" OR "recibieron tu postulación" OR "Postulación recibida" OR "Confirmación de postulación" OR "Gracias por postularte" OR "recibió tu postulación" OR "received your application" OR "Solicitud recibida" OR "candidatura recibida") -from:(jobalerts-noreply@linkedin.com)`
 - **Responses:** `after:{DATE} ("unfortunately" OR "rejected" OR "entrevista" OR "rechazado" OR "proceso" OR "oportunidad" OR "interview" OR "next steps" OR "candidatura" OR "selección" OR "resultado") -from:(jobalerts-noreply@linkedin.com)`
 
-### 3. Dump Raw Data
-Fetch message metadata (id, from, subject, date, snippet) for all results and save them to `raw_emails.json` in the workspace root. **Do not parse the data manually.**
+### 3. Deduplicate and Fetch Metadata
+- Read `all_ids.txt` to get a list of already processed message IDs.
+- Filter out any IDs from the search results that are already in `all_ids.txt`.
+- For NEW IDs only, fetch message metadata (id, from, subject, date, snippet) using `mcp_google-workspace_gmail.get`.
+- Save the results as a JSON array to `raw_emails.json` in the workspace root.
 
-### 4. Extract with Local LLM
-Run the extraction script:
+### 4. Execute Unified Update
+Run the main controller script:
 ```bash
-uv run python extract_jobs.py
+uv run python update_tracker.py
 ```
-This script uses `llama3.2:3b` to parse the JSON and generate `batch_new.csv`.
+This script handles:
+1. Extraction with the local LLM (`extract_jobs.py`).
+2. Merging new records into the CSV.
+3. Appending processed IDs to `all_ids.txt`.
+4. Cleaning up `raw_emails.json` and temporary files.
 
-### 5. Merge & Cleanup
-- Run the update script: `uv run python update_tracker.py`.
-- **Note:** The script automatically normalizes all dates to ISO 8601 (`YYYY-MM-DD`) format.
-- Verify the new entries in `job_applications_final.csv`.
-- Delete `raw_emails.json` and `batch_new.csv`.
+### 5. Verification
+Verify the update in `job_applications_final.csv`.
