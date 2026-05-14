@@ -16,3 +16,4 @@ raw_emails.json
 batch_new.csv
 analytics.ipynb
 *.skill
+.DS_Store
